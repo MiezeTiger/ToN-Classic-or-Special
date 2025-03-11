@@ -21,6 +21,7 @@ This follows the rules that:
 * A Classic will always follow a Special
 * There is always a special after the host leaves
 * It will alert you to get your items after 8 Pages and Punished rounds
+* There is a 50/50 Classic/Special chance after a Run round
 
 It will not track:
 * Moons
