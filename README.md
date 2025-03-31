@@ -26,6 +26,9 @@ This follows the rules that:
 It will not track:
 * Moons
 
+Troubleshooting:
+If the master change doesn't work, go to your settings in the Save Manager and find the OSC section. Under Master Change, change the value to 5000
+
 Enjoy your time in Terrors of Nowhere.
 
 -Mieze
